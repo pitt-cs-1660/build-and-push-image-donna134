@@ -1,0 +1,9 @@
+TimeSeries ID,workload_identity_federation/count.iam.googleapis.com/WorkloadIdentityPoolProvider.ALIGN_RATE.REDUCE_NONE.metric.type="iam.googleapis.com/workload_identity_federation/count" resource.type="iam.googleapis.com/WorkloadIdentityPoolProvider".60s.location:global.pool_id:github.project_id:cs2060-fall-2024.provider_id:my-repo.result:success
+result,success
+location,global
+project_id,cs2060-fall-2024
+provider_id,my-repo
+pool_id,github
+Sat Nov 02 2024 21:18:00 GMT-0400 (Eastern Daylight Time),0.01222214814691356
+Sat Nov 02 2024 21:19:00 GMT-0400 (Eastern Daylight Time),0.04111096296049379
+Sat Nov 02 2024 21:20:00 GMT-0400 (Eastern Daylight Time),0.013333555559259316
